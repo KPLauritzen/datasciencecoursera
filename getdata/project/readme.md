@@ -20,3 +20,5 @@ It outputs the tidy data set:
 	tidy.txt
 	
 The package `dplyr` was used (v 0.4.3) with `R` version 3.1.3
+
+See [the codebook](codebook.md) for more detail.
